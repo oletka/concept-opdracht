@@ -317,15 +317,14 @@ button:hover {
     color: var(--back-colour);
 }
 img {
-    flex-basis: 100%;
+   width: 100%;
 }
 .image-wrapper {
     width: 100px;
     margin-top: 50px;
 }
 .image-wrapper-2 {
-    display:flex;
-    flex-basis: 300px;
+    flex-basis: 600px;
     margin: 20px;
     flex-grow: 0;
     flex-shrink: 1;
